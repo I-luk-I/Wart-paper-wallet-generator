@@ -1,5 +1,5 @@
 # Warthog Network multi-threaded paper wallet generator. 
-If need to generate one image use: 
+If need to generate one wallet use: 
 ```cargo run``` or ```cargo build --release```  
 
 To generate a large number of paper wallets use: 
